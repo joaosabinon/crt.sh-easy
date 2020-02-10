@@ -11,6 +11,6 @@
 > python3 crtresolve.sh target.com
 
 
-ping: a.target.com: Name or service not known
-ping: b.target.com: Name or service not known
-Host c.target.com ['123.456.789.12'] is active
+>ping: a.target.com: Name or service not known
+>ping: b.target.com: Name or service not known
+>Host c.target.com ['123.456.789.12'] is active
