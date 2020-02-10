@@ -10,6 +10,7 @@
 **Example**
 > python3 crtresolve.sh target.com
 
+Result:
 
 ping: a.target.com: Name or service not known
 
